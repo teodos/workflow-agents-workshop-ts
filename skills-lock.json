@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "skills": {
+    "render-blueprints": {
+      "source": "render-oss/skills",
+      "sourceType": "github",
+      "skillPath": "skills/render-blueprints/SKILL.md",
+      "computedHash": "d836cbc7cc11b366aedabcac74c6e589b504d3e705cf9d3b4837a029dac52372"
+    },
+    "render-cli": {
+      "source": "render-oss/skills",
+      "sourceType": "github",
+      "skillPath": "skills/render-cli/SKILL.md",
+      "computedHash": "f4c8fe13f48ddc919a7ae6aafca9ccad6f16e4aa886e4455db9ce58692604acd"
+    },
+    "render-web-services": {
+      "source": "render-oss/skills",
+      "sourceType": "github",
+      "skillPath": "skills/render-web-services/SKILL.md",
+      "computedHash": "56a3f63c7a9fb8848316da647f2ddcf80380ea3823ad53cfb52716ff293fcd1a"
+    },
+    "render-workflows": {
+      "source": "render-oss/skills",
+      "sourceType": "github",
+      "skillPath": "skills/render-workflows/SKILL.md",
+      "computedHash": "a022162ff43b56f7c3a8579476b02287fc3b66d79371e7f4a69bb0da6c5923b5"
+    }
+  }
+}
